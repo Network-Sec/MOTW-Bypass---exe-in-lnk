@@ -9,7 +9,7 @@ Script packs an exe file into an `lnk` - this still works on latest patch level,
 
 We got it this far yet:
 - Packed encrypted `.exe` in link file
-- Correct offsets, packed payload as link target
+- Correct offsets, packed powershell payload as link target
 - Code execution (powershell) on double-click
 - Correct icon (notepad)
 - Spoofed hover description
