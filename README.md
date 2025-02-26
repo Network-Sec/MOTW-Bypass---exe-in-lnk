@@ -14,4 +14,6 @@ We got it this far yet:
 - Correct icon (notepad)
 - Spoofed hover description
 
+We're not so much interested with the packed `exe` and the actual MOTW Bypass, albeit it's nice-to-have. The `stageless` MOTW is probably a bit pointless - if it works at all, or not - cause regular Browsers like Chrome will go on **red alert** when downloading such a prepared file, making the user jump hoops to keep the download at all. 
+
 However we're not yet finished with the `unpacking` and that part of the powershell payload. This last part will also make the rest of the powershell code fail currently. If you remove everything after `echo 1 > t` and double click the created file, it will work and write to the testfile `t`. 
