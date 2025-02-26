@@ -19,4 +19,4 @@ We're not so much interested in the packed `exe` and the actual MOTW Bypass, alb
 
 What's much better is the entire combo of things. Powershell execution is all we need - in a nice package. 
 
-However we're not yet finished with the `unpacking` and that part of the powershell payload. This last part will also make the rest of the powershell code fail currently. If you remove everything after `echo 1 > t` and double click the created file, it will work and write to the testfile `t`. 
+However we're not yet finished with the `unpacking` part of the powershell payload. This last part will also make the rest of the powershell code fail currently. If you remove everything after `echo 1 > t` and double click the created file, it will work and write to the testfile `t`. 
