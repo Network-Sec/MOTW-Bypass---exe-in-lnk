@@ -15,7 +15,7 @@ We got it this far yet:
 - Spoofed hover description
 - Theoretically there could be a way to hide the command, using spaces. Not yet working
 
-We're not so much interested with the packed `exe` and the actual MOTW Bypass, albeit it's nice-to-have. The `stageless` MOTW is probably a bit pointless - if it works at all, or not - cause regular Browsers like Chrome will go on **red alert** when downloading such a prepared file, making the user jump hoops to keep the download at all. 
+We're not so much interested in the packed `exe` and the actual MOTW Bypass, albeit it's nice-to-have. The `stageless` MOTW is probably a bit pointless - if it works at all, or not - cause regular Browsers like Chrome will go on **red alert** when downloading such a prepared file, making the user jump hoops to keep the download at all. 
 
 What's much better is the entire combo of things. Powershell execution is all we need - in a nice package. 
 
